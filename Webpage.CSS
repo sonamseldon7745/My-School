@@ -1,0 +1,30 @@
+img {
+    width: 10%;
+    height: 10%;
+}
+
+h2{
+    font-family: Helvetica;
+    font-size: 15px;
+    color:blue;
+    text-align: center;
+    background-color: yellow;
+}
+body{
+    background-image: url("Images/background.jpg");
+}
+nav a{
+    display: block;
+    padding: 20px;
+    color: aquamarine;
+    text-decoration: dashed;
+    float: center;
+    background-color: black;
+}
+nav a:hover{
+    background-color: brown;
+}
+
+p{
+    margin: 25px 50px 75px 90px;
+}
